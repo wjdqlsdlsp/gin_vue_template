@@ -116,5 +116,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# vue
-node_modules/*
+# else
+.idea
+
+# go
+
+go_gin_backend/.idea
